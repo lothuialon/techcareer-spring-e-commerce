@@ -1,0 +1,8 @@
+com\lothuialon\productservice\entity\Product.class
+com\lothuialon\productservice\controller\ProductController.class
+com\lothuialon\productservice\entity\Product$ProductBuilder.class
+com\lothuialon\productservice\repository\ProductRepository.class
+com\lothuialon\productservice\productServiceApplication.class
+com\lothuialon\productservice\utility\JwtUtil.class
+com\lothuialon\productservice\dto\ProductDTO$ProductDTOBuilder.class
+com\lothuialon\productservice\dto\ProductDTO.class
